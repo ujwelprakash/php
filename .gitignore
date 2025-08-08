@@ -1,0 +1,5 @@
+﻿react-frontend/node_modules/
+react-frontend/build/
+php-backend/*.log
+.DS_Store
+Thumbs.db
